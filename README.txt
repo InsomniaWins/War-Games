@@ -19,7 +19,7 @@ by:
 Install instructions:
 	1) install Eclipse
 	2) add JavaFX to Eclipse
-	3) copy contents of "Source Code" folder to workspace
+	3) copy contents of "Source" folder to Eclipse workspace
 	4) import project to Eclipse
 	5) press "run" button in Eclipse
 	6) enjoy!
