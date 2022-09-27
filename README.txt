@@ -1,5 +1,7 @@
 
-!!!! This file is best read with word-wrapping enable !!!!
+This program was submitted as a first-year java graphics programming and ai assignment for a CS class at Lamar University.
+
+
 
 Welcome to W A R - G A M E S! 
 by:
